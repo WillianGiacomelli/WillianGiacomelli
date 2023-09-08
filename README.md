@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! Welcome to my Github profile.</h1>
-<h2 align="center">My name is Wilian but you can call me Will!</h1>
+<h2 align="center">My name is Willian but you can call me Will!</h1>
 <br>
 <div align="center">
 :mortar_board: I am a student looking for opportunities and collabaration in projects.
