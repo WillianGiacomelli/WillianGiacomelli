@@ -1,6 +1,11 @@
-### Hey! Sou o Willian👋
-
-- 🌱 Estudante de Engenharia da Computação, Python e React Js
+<h1 align="center">👋 Hi! Welcome to my Github profile.</h1>
+<h2 align="center">My name is Wilian but you can call me Will!</h1>
+<br>
+<div align="center">
+:mortar_board: I am a student looking for opportunities and collabaration in projects.
+<br>
+🌱 I’m currently learning web development and mobile.
+</div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
@@ -24,7 +29,6 @@
   ##
  
 <div align="center"> 
-  <a href="https://instagram.com/owillgiaco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:willian2406@live.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-giacomelli-13167b151" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
