@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hi! Welcome to my Github profile.</h1>
-<h2 align="center">My name is Willian!</h1>
-<br>
+<h1>👋Welcome to my Github profile.</h1>
 
 <h2>
   About me
