@@ -10,7 +10,7 @@ Hi, I'm Willian! A tech enthusiast and dedicated problem solver. Nowadays, I´m 
 I love diving into new challenges and continuously expanding my skill set!
 </p>
 
-## Tech Stack
+## 💻 Tech Stack
 
 My focus is on full-stack web development, and I work with various technologies, including:
 
